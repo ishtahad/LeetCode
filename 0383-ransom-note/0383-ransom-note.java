@@ -4,19 +4,11 @@ class Solution {
             HashMap<Character,Integer> countRansomnote = new HashMap<>();
 
             for(int i = 0; i<ransomNote.length();i++){
-                if(!countRansomnote.containsKey(ransomNote.charAt(i))){
-                    countRansomnote.put(ransomNote.charAt(i),1);
-                }else{
-                    countRansomnote.put(ransomNote.charAt(i),countRansomnote.get(ransomNote.charAt(i)) + 1);
-                }
+                countRansomnote.put(ransomNote.charAt(i),countRansomnote.getOrDefault(ransomNote.charAt(i),0) + 1);
             }
 
             for(int i = 0; i<magazine.length();i++){
-                if(!countMagazine.containsKey(magazine.charAt(i))){
-                    countMagazine.put(magazine.charAt(i),1);
-                }else{
-                    countMagazine.put(magazine.charAt(i),countMagazine.get(magazine.charAt(i)) + 1);
-                }
+                countMagazine.put(magazine.charAt(i),countMagazine.getOrDefault(magazine.charAt(i),0) + 1);
             }
 
             for (Map.Entry<Character,Integer> mapElement : countRansomnote.entrySet()) {
