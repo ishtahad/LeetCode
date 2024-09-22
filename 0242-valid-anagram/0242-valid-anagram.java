@@ -30,11 +30,9 @@ class Solution {
                 Integer value2 = countT.get(key);
                 if(value.equals(value2)) continue;
                 else {
-                    System.out.println("false for key: " + key + " valueS: " + value + " valueT: " + value2 + "  " + (value.equals(value2)));
                     return false;
                 }
             }else{
-                System.out.println("false for : " + key + " : " + value);
                 return false;
             }
         }
