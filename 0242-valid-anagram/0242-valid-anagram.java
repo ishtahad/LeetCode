@@ -4,7 +4,6 @@ class Solution {
         if (s.length() != t.length()) return false;
 
         HashMap<Character,Integer> countS = new HashMap<>();
-        HashMap<Character,Integer> countT = new HashMap<>();
 
         for(int i = 0 ; i < s.length() ; i++){
             if(countS.containsKey(s.charAt(i))){
@@ -15,26 +14,15 @@ class Solution {
         }
 
         for(int i = 0 ; i < t.length() ; i++){
-            if(countT.containsKey(t.charAt(i))){
-                countT.put(t.charAt(i), countT.get(t.charAt(i)) + 1);
+            if(countS.containsKey(t.charAt(i))){
+                countS.put(t.charAt(i), countS.get(t.charAt(i)) - 1);
             }else{
-                countT.put(t.charAt(i), 1);
+                countS.put(t.charAt(i), 1);
             }
         }
-        for (Map.Entry<Character,Integer> mapElement : countS.entrySet()) {
-            Character key = mapElement.getKey();
-            Integer value = (mapElement.getValue());
-            //System.out.println(key + " : " + value);
-
-            if(countT.containsKey(key)){
-                Integer value2 = countT.get(key);
-                if(value.equals(value2)) continue;
-                else {
-                    return false;
-                }
-            }else{
-                return false;
-            }
+        
+        for(int value : countS.values()){
+            if(value != 0) return false;
         }
 
         return true;
