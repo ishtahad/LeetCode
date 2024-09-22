@@ -21,22 +21,6 @@ class Solution {
                 countT.put(t.charAt(i), 1);
             }
         }
-
-        System.out.println("For s");
-        for (Map.Entry<Character,Integer> mapElement : countS.entrySet()) {
-            Character key = mapElement.getKey();
-            Integer value = (mapElement.getValue());
-            System.out.println(key + " : " + value);
-        }
-
-        System.out.println("For t");
-        for (Map.Entry<Character,Integer> mapElement : countT.entrySet()) {
-            Character key = mapElement.getKey();
-            Integer value = (mapElement.getValue());
-            System.out.println(key + " : " + value);
-        }
-
-        System.out.println("Checking");
         for (Map.Entry<Character,Integer> mapElement : countS.entrySet()) {
             Character key = mapElement.getKey();
             Integer value = (mapElement.getValue());
