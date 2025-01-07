@@ -12,6 +12,6 @@ class Solution {
                  }
               }
           }
-           return ans.stream().toList();
+           return new ArrayList(ans);
     }
 }
