@@ -1,6 +1,6 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        Set<String> ans = new HashSet<>();
+        List<String> ans = new ArrayList();
         int length = words.length;
           for (int i = 0 ; i < length ; i++) {
             String sub = words[i];
@@ -8,11 +8,13 @@ class Solution {
                  if (i!=j) {
                     String text = words[j];
                      if (text.contains(sub)){
-                         ans.add(sub);
+                        if (!ans.contains(sub)) {
+                               ans.add(sub);
+                        }
                      }
                  }
               }
           }
-           return new ArrayList(ans);
+           return ans;
     }
 }
