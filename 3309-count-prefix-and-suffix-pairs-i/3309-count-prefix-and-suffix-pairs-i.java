@@ -19,10 +19,10 @@ class Solution {
             return false;
         }
 
-        String textPrefix = str2.substring(0,lengthPat);
-        if (!textPrefix.equals(str1)) return false;
-        String textSuffix = str2.substring(lengthText-lengthPat,lengthText);
-        if (!textSuffix.equals(str1)) return false;
+        
+        if (!str2.substring(0,lengthPat).equals(str1)) return false;
+        
+        if (!str2.substring(lengthText-lengthPat,lengthText).equals(str1)) return false;
 
         return true;
            
