@@ -20,10 +20,8 @@ class Solution {
         }
 
         String textPrefix = str2.substring(0,lengthPat);
-        System.out.println("Text: " + str2 + " textPrefix: "+textPrefix);
         if (!textPrefix.equals(str1)) return false;
         String textSuffix = str2.substring(lengthText-lengthPat,lengthText);
-        System.out.println("Text: " + str2 + " textSuffix: "+textSuffix);
         if (!textSuffix.equals(str1)) return false;
 
         return true;
