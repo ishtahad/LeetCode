@@ -1,5 +1,6 @@
 class Solution {
     public String longestPrefix(String str) {
+        char[] strArray = str.toCharArray();
         int length = str.length();
         int[] lps = new int[length];
         int len = 0;
@@ -7,7 +8,7 @@ class Solution {
 
         int i = 1;
         while (i < length) {
-            if (str.charAt(i) == str.charAt(len)) {
+            if (strArray[i] == strArray[len]) {
                 len++;
                 lps[i] = len;
                 i++;
