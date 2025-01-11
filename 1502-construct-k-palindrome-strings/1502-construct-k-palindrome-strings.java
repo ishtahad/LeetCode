@@ -1,12 +1,13 @@
 class Solution {
     public boolean canConstruct(String s, int k) {
         int length = s.length();
+        char[] ch = s.toCharArray();
         if (length < k) return false;
         if (length == k) return true;
         
         int[] count = new int[26];
-        for (int i = 0 ; i < length ; i++) {
-            count[s.charAt(i)-'a']++; 
+        for (int i = 0 ; i < ch.length ; i++) {
+            count[ch[i]-'a']++; 
         }
 
         int counter = 0;
