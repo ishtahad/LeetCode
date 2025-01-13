@@ -6,7 +6,7 @@ class Solution {
         }
         int answer = 0;
         for (int i = 0 ; i < 26 ; i++) {
-            if (count[i] != 0) {
+            if (count[i] > 0) {
                 if (count[i] % 2 == 0) {
                     answer = answer+ 2;
                 } else {
