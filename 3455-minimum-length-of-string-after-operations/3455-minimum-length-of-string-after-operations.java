@@ -10,7 +10,6 @@ class Solution {
                 if (count[i] % 2 == 0) {
                     answer = answer+ 2;
                 } else {
-                    count[i] = 1;
                     answer = answer+ 1;
                 }
             } 
