@@ -5,9 +5,9 @@ class Solution {
             count[ c- 'a']++;
         }
         int answer = 0;
-        for (int i = 0 ; i < 26 ; i++) {
-            if (count[i] > 0) {
-                answer += count[i] % 2 == 0 ? 2 : 1;
+        for (int freq : count) {
+            if (freq > 0) {
+                answer += freq % 2 == 0 ? 2 : 1;
             } 
         }
 
