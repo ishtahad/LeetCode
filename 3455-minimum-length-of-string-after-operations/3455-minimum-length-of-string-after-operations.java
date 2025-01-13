@@ -8,9 +8,9 @@ class Solution {
         for (int i = 0 ; i < 26 ; i++) {
             if (count[i] > 0) {
                 if (count[i] % 2 == 0) {
-                    answer = answer+ 2;
+                    answer += 2;
                 } else {
-                    answer = answer+ 1;
+                    answer += 1;
                 }
             } 
         }
