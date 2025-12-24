@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ishtahad/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ishtahad/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ishtahad/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ishtahad/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
