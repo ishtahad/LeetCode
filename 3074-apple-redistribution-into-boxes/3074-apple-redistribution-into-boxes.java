@@ -1,10 +1,6 @@
 class Solution {
     public int minimumBoxes(int[] apple, int[] capacity) {
-        int sumOfApple = 0;
-
-        for (int i = 0 ; i < apple.length; i++) {
-            sumOfApple += apple[i];
-        }
+        int sumOfApple = Arrays.stream(apple).sum();
         Arrays.sort(capacity);
         int result = 0;
         for (int i = 0 ; i < capacity.length; i++) {
