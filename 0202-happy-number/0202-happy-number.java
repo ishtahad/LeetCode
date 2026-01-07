@@ -1,6 +1,8 @@
 class Solution {
     public boolean isHappy(int n) {
         if (n==1) return true;
+        if (n==4) return false;
+        
         Set<Integer> seen = new HashSet<>();
         while (n != 1) {
             if (seen.contains(n)) {
