@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ishtahad/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
@@ -95,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ishtahad/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishtahad/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
