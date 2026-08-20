@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishtahad/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ishtahad/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishtahad/LeetCode/tree/master/0290-word-pattern) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Array
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishtahad/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ishtahad/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ishtahad/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
