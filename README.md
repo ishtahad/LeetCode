@@ -1,4 +1,4 @@
-A collection of LeetCode questions That i have solved - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions That i have solved in LeetCode- Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
