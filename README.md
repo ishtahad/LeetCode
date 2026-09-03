@@ -12,6 +12,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishtahad/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishtahad/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0049-group-anagrams](https://github.com/ishtahad/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Array
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0066-plus-one](https://github.com/ishtahad/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ishtahad/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishtahad/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ishtahad/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -111,4 +115,20 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
