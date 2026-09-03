@@ -5,22 +5,12 @@ class Solution {
         for (int num : nums ) {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
         }
-        Map<Integer, Integer> sortedAsc = frequencyMap.entrySet()
-                .stream()
-                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-                .collect(Collectors.toMap(
-                        entry -> entry.getKey(),      
-                        entry -> entry.getValue(),   
-                        (oldValue, newValue) -> oldValue,
-                        LinkedHashMap::new
-                ));
-        int i = 0;
-        for (Map.Entry<Integer, Integer> entry : sortedAsc.entrySet()) {
+        List<Map.Entry<Integer, Integer>> entries = new ArrayList<>(frequencyMap.entrySet());
+        entries.sort(Map.Entry.<Integer, Integer>comparingByValue().reversed());
+        for (Map.Entry<Integer, Integer> entry : entries) {
             if (k == 0) break;
-            result[i] = entry.getKey();
-            i++;
+            result[entries.indexOf(entry)] = entry.getKey();
             k--;
-
         }
         return result;
 
