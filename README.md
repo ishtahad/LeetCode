@@ -16,6 +16,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishtahad/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2404-most-frequent-even-element](https://github.com/ishtahad/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ishtahad/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ishtahad/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [1524-string-matching-in-an-array](https://github.com/ishtahad/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ishtahad/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ishtahad/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2404-most-frequent-even-element](https://github.com/ishtahad/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ishtahad/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ishtahad/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2404-most-frequent-even-element](https://github.com/ishtahad/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ishtahad/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
