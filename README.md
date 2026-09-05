@@ -51,6 +51,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0066-plus-one](https://github.com/ishtahad/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ishtahad/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ishtahad/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ishtahad/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ishtahad/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ishtahad/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ishtahad/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String Matching
 |  |
