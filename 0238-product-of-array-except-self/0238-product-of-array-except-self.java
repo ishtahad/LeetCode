@@ -1,46 +1,25 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int[] nums2 = new int[nums.length];
-        int zeroIndex = -1;
-        
-        Arrays.fill(nums2,1);
-        int product = 1;
+        int[] result = new int[nums.length];
+        int[] leftProducts = new int[nums.length];
+        int[] rightProducts = new int[nums.length];
 
-        boolean allZeros = Arrays.stream(nums).allMatch(num -> num == 0);
-        long zeroCount = Arrays.stream(nums).filter(num -> num == 0).count();
+        leftProducts[0] = 1;
+        rightProducts[nums.length - 1] = 1;
 
-        if(allZeros){return nums;}
-        if(zeroCount > 1){return new  int[nums.length];}
+        for (int i = 1 ; i < nums.length ; i++) {
+            leftProducts[i] = leftProducts[i-1] * nums[i-1];
+        }
 
-        for (int i = 0; i< nums.length;i++){
-            if(nums[i] == 0 ){
-                zeroIndex = i;
-                continue;
-            }
-            product = product*nums[i];
-            nums2[i] = product;
+        for (int i = nums.length -2; i >=0 ; i--) {
+            rightProducts[i] = rightProducts[i+1] * nums[i+1];
         }
-        
-        for (int i = 0; i< nums.length;i++){
-            if(nums[i] == 0 ){
-                nums2[i] = product;
-            }else{
-                 nums2[i] = product/nums[i];
-            }
-            
+
+        for (int i = 0 ; i < nums.length ; i++) {
+            result[i] = leftProducts[i] * rightProducts[i];
         }
-        if(zeroIndex != -1){
-            for (int i = 0; i< nums2.length;i++){
-                if(i != zeroIndex ){
-                    nums2[i] = 0;
-                }else{
-                    nums2[i] = nums2[i];
-                }
-            
-            }
-        }
-        return nums2;
+
+
+        return result;
     }
 }
-
-//1 ,2,3,4
