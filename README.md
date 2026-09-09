@@ -27,6 +27,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [0205-isomorphic-strings](https://github.com/ishtahad/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishtahad/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishtahad/LeetCode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/ishtahad/LeetCode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/ishtahad/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ishtahad/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/ishtahad/LeetCode/tree/master/1508-longest-happy-prefix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | ------- |
 | [0125-valid-palindrome](https://github.com/ishtahad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ishtahad/LeetCode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/ishtahad/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishtahad/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ishtahad/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
