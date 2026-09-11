@@ -19,6 +19,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [2404-most-frequent-even-element](https://github.com/ishtahad/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ishtahad/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ishtahad/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ishtahad/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ishtahad/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishtahad/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ishtahad/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ishtahad/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +147,12 @@ A collection of LeetCode questions That i have solved in LeetCode- Created using
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ishtahad/LeetCode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ishtahad/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ishtahad/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
