@@ -11,10 +11,11 @@ class Solution {
                     for (int k = 0 ; k < digits.length; k++) {
                         if (j!=k && i!=k) {
                             if (digits[k]%2 == 0) {
-                                if (list.contains(digits[i]*100 + digits[j]*10 + digits[k])) {
+                                int number = digits[i]*100 + digits[j]*10 + digits[k];
+                                if (list.contains(number)) {
                                     continue;
                                 }
-                                list.add(digits[i]*100 + digits[j]*10 + digits[k]);
+                                list.add(number);
                                 count++;
                             }
 
