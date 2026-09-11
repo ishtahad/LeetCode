@@ -15,7 +15,6 @@ class Solution {
                                     continue;
                                 }
                                 list.add(digits[i]*100 + digits[j]*10 + digits[k]);
-                                System.out.println(digits[i] +""+ digits[j] +""+ digits[k]);
                                 count++;
                             }
 
